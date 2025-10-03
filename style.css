@@ -218,6 +218,10 @@ footer {
     transition: 0.3s;
   }
 
+  .chat-btn2:hover {
+    color: white;
+  }
+
     .logo {
     width: 80px;
     right: 15px;
@@ -258,8 +262,4 @@ footer {
     padding: 10px;
     font-size: 14px;
   }
-
 }
-
-
-
