@@ -199,8 +199,25 @@ footer {
   .chatbot2 {
     position: static;
     position: absolute;
-    top: 5190px;
+    top: 4900px;
+    font-size: 10px;
   }
+
+  .chat-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .chat-btn2 {
+    display: inline-block;
+    padding: 12px 20px;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: 0.3s;
+  }
+
     .logo {
     width: 80px;
     right: 15px;
@@ -243,5 +260,6 @@ footer {
   }
 
 }
+
 
 
